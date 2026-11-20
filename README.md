@@ -31,7 +31,7 @@ sql-data-warehouse-and-analytics/
 │
 ├── analytics/
 │   ├── eda/
-│   └── advanced-analytics/
+│   └── advanced_analytics/
 │
 └── README.md
 ```
